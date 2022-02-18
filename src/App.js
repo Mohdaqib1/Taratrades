@@ -28,6 +28,7 @@ function App() {
           <Link to='./Contact' className='link'><h3 className='link-h3'>CONTACT US</h3> </Link>
         </nav>
         <Switch>
+       
           <Route path="/Home">
             <Home />
           </Route>
