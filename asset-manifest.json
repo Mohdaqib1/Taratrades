@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/shoping/static/css/main.6a4412d0.css",
-    "main.js": "/shoping/static/js/main.a828024c.js",
-    "static/js/787.28cb0dcd.chunk.js": "/shoping/static/js/787.28cb0dcd.chunk.js",
-    "static/media/Book.pdf": "/shoping/static/media/Book.1bf520649f33ffbffaa8.pdf",
-    "static/media/img5.png": "/shoping/static/media/img5.b61a92530d79f8abc806.png",
-    "static/media/img2.png": "/shoping/static/media/img2.0eedc1a4eca033a40b9d.png",
-    "static/media/img1.png": "/shoping/static/media/img1.ede5052a158bc77227af.png",
-    "static/media/img3.png": "/shoping/static/media/img3.f08ca0dbc53a8f112735.png",
-    "static/media/img4.png": "/shoping/static/media/img4.6d2efd80140a5d926e57.png",
-    "static/media/Logo.png": "/shoping/static/media/Logo.615f18ba5c4a0807a9bc.png",
-    "index.html": "/shoping/index.html",
-    "main.6a4412d0.css.map": "/shoping/static/css/main.6a4412d0.css.map",
-    "main.a828024c.js.map": "/shoping/static/js/main.a828024c.js.map",
-    "787.28cb0dcd.chunk.js.map": "/shoping/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Taratrades/static/css/main.6a4412d0.css",
+    "main.js": "/Taratrades/static/js/main.50fed156.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Taratrades/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Book.pdf": "/Taratrades/static/media/Book.1bf520649f33ffbffaa8.pdf",
+    "static/media/img5.png": "/Taratrades/static/media/img5.b61a92530d79f8abc806.png",
+    "static/media/img2.png": "/Taratrades/static/media/img2.0eedc1a4eca033a40b9d.png",
+    "static/media/img1.png": "/Taratrades/static/media/img1.ede5052a158bc77227af.png",
+    "static/media/img3.png": "/Taratrades/static/media/img3.f08ca0dbc53a8f112735.png",
+    "static/media/img4.png": "/Taratrades/static/media/img4.6d2efd80140a5d926e57.png",
+    "static/media/Logo.png": "/Taratrades/static/media/Logo.615f18ba5c4a0807a9bc.png",
+    "index.html": "/Taratrades/index.html",
+    "main.6a4412d0.css.map": "/Taratrades/static/css/main.6a4412d0.css.map",
+    "main.50fed156.js.map": "/Taratrades/static/js/main.50fed156.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Taratrades/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a4412d0.css",
-    "static/js/main.a828024c.js"
+    "static/js/main.50fed156.js"
   ]
 }
