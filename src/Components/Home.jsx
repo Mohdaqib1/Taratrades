@@ -13,7 +13,7 @@ function Home() {
 
         <div>
             <div className="ser"><h1>INAUGURATION CEREMONY (2021-2022)</h1></div>
-            <div className="container">
+            {/* <div className="container">
                 <div className="cal1">
                     <div className="left"><img className='img' src={img1} ></img></div>
 
@@ -66,7 +66,7 @@ function Home() {
                     </div>
                         <h4>Trophies and gifts presented by TARA TRADES to respected vendors and members.</h4>
                     </div>
-            </div>
+            </div> */}
 
 
             {/* <div className="col1">
@@ -96,8 +96,7 @@ function Home() {
 
 
         </div>
-            </div >
-
+           
         
     );
 
