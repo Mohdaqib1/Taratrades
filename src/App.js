@@ -15,7 +15,6 @@ function App() {
       <header>
 
         <h1 className='page-name'>TARA TRADES</h1>
-        <h2 className='non'>Aqib</h2>
         <img className='logo' src={logo} ></img>
         </header>
       <Router>
