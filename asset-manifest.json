@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Taratrades/static/css/main.9120d0e6.css",
-    "main.js": "/Taratrades/static/js/main.1583f1dc.js",
+    "main.css": "/Taratrades/static/css/main.46bfba9a.css",
+    "main.js": "/Taratrades/static/js/main.51617a03.js",
     "static/js/787.28cb0dcd.chunk.js": "/Taratrades/static/js/787.28cb0dcd.chunk.js",
     "static/media/Book.pdf": "/Taratrades/static/media/Book.1bf520649f33ffbffaa8.pdf",
     "static/media/img5.png": "/Taratrades/static/media/img5.b61a92530d79f8abc806.png",
@@ -11,12 +11,12 @@
     "static/media/img4.png": "/Taratrades/static/media/img4.6d2efd80140a5d926e57.png",
     "static/media/Logo.png": "/Taratrades/static/media/Logo.615f18ba5c4a0807a9bc.png",
     "index.html": "/Taratrades/index.html",
-    "main.9120d0e6.css.map": "/Taratrades/static/css/main.9120d0e6.css.map",
-    "main.1583f1dc.js.map": "/Taratrades/static/js/main.1583f1dc.js.map",
+    "main.46bfba9a.css.map": "/Taratrades/static/css/main.46bfba9a.css.map",
+    "main.51617a03.js.map": "/Taratrades/static/js/main.51617a03.js.map",
     "787.28cb0dcd.chunk.js.map": "/Taratrades/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9120d0e6.css",
-    "static/js/main.1583f1dc.js"
+    "static/css/main.46bfba9a.css",
+    "static/js/main.51617a03.js"
   ]
 }
