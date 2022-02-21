@@ -16,6 +16,7 @@ function App() {
         <div className='page-name'>TARA TRADES</div>
         <img className='logo' src={Logo} ></img>
         </header>
+       
       
        
       <div className='container-show'>
