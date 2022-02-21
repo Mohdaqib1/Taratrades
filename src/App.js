@@ -6,7 +6,7 @@ import Membership from './Components/Membership';
 import Offer from './Components/Offer';
 import About from './Components/About';
 import Contact from './Components/Contact';
-import logo from './Components/Logo.png';
+import Logo from './Components/Logo.png';
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
       <header>
 
         <h1 className='page-name'>TARA TRADES</h1>
-        <img className='logo' src={logo} ></img>
+        <img className='logo' src={Logo} ></img>
         </header>
       <Router>
         <nav className='nav'>
@@ -23,7 +23,7 @@ function App() {
           <Link to='./Vendor' className='link'><h3 className='link-h3'>VENDOR</h3> </Link>
           <Link to='./Membership' className='link'><h3 className='link-h3'>MEMBERSHIP </h3> </Link>
           <Link to='./Offer' className='link'><h3 className='link-h3'>OFFER</h3></Link>
-          <Link to='./About' className='link'><h3 className='link-h3'>ABOUT</h3> </Link>
+          <Link to='./' className='link'><h3 className='link-h3'>ABOUT</h3> </Link>
           <Link to='./Contact' className='link'><h3 className='link-h3'>CONTACT US</h3> </Link>
         </nav>
         <Switch>
@@ -40,7 +40,7 @@ function App() {
           <Route path="/Offer">
             <Offer />
           </Route>
-          <Route path="/About">
+          <Route path="/">
             <About />
           </Route>
           <Route path="/Contact">

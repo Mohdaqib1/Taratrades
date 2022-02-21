@@ -13,7 +13,7 @@ function Home() {
 
         <div>
             <div className="ser"><h1>INAUGURATION CEREMONY (2021-2022)</h1></div>
-            {/* <div className="container">
+            <div className="container">
                 <div className="cal1">
                     <div className="left"><img className='img' src={img1} ></img></div>
 
@@ -66,30 +66,10 @@ function Home() {
                     </div>
                         <h4>Trophies and gifts presented by TARA TRADES to respected vendors and members.</h4>
                     </div>
-            </div> */}
+            </div>
 
 
-            {/* <div className="col1">
-                    <div className="left"><img className='img' src={img1} ></img></div>
-                    <div className="right"> <h2>HEllo</h2></div>
-                </div>
-                <div className="col2">
-                    <div className="left">HEllo2</div>
-                    <div className="right"><img className='img' src={img2} ></img></div>
-                </div>
-                <div className="col3">
-                    <div className="left"><img className='img' src={img3} ></img></div>
-                    <div className="right">HEllo3</div>
-                </div>
-                <div className="col4">
-                    <div className="left">HEllo4</div>
-                    <div className="right"><img className='img' src={img4} ></img></div>
-                </div>
-                <div className="col5">
-                    <div className="left">    <img className='img' src={img5} ></img></div>
-                    <div className="right">HEllo5</div>
-                </div> */}
-
+          </div>
 
 
 

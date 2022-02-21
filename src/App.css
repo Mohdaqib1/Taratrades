@@ -11,13 +11,14 @@ header{
 }
 .page-name{
   margin-top: 3%;
-  width: 90%;
+  width: 87%;
 }
 .logo{
   width: 10%;
   height: 10%;
   float: right;
   border-radius: 50%;
+  
 }
 nav{
  width: 100%;
