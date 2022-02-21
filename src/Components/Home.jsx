@@ -11,7 +11,7 @@ import img5 from "./img5.png";
 function Home() {
     return (
 
-        <div>
+        <div className="page-div">
             <div className="ser"><h1>INAUGURATION CEREMONY (2021-2022)</h1></div>
             <div className="container">
                 <div className="cal1">

@@ -11,48 +11,22 @@ import Logo from './Components/Logo.png';
 function App() {
   return (
     <div>
-
       <header>
 
-        <h1 className='page-name'>TARA TRADES</h1>
+        <div className='page-name'>TARA TRADES</div>
         <img className='logo' src={Logo} ></img>
         </header>
-      <Router>
-        <nav className='nav'>
-          <Link to='./Home' className='link'><h3 className='link-h3'> HOME</h3> </Link>
-          <Link to='./Vendor' className='link'><h3 className='link-h3'>VENDOR</h3> </Link>
-          <Link to='./Membership' className='link'><h3 className='link-h3'>MEMBERSHIP </h3> </Link>
-          <Link to='./Offer' className='link'><h3 className='link-h3'>OFFER</h3></Link>
-          <Link to='./' className='link'><h3 className='link-h3'>ABOUT</h3> </Link>
-          <Link to='./Contact' className='link'><h3 className='link-h3'>CONTACT US</h3> </Link>
-        </nav>
-        <Switch>
+      
        
-          <Route path="/Home">
-            <Home />
-          </Route>
-          <Route path="/Vendor">
-            <Vendor />
-          </Route>
-          <Route path="/Membership">
-            <Membership />
-          </Route>
-          <Route path="/Offer">
-            <Offer />
-          </Route>
-          <Route path="/">
-            <About />
-          </Route>
-          <Route path="/Contact">
-            <Contact />
-          </Route>
-
-
-        </Switch>
-
-      </Router>
+      <div className='container-show'>
+      <div className='cal-show-m'>    <Membership /></div>
+        <div className='cal-show'>  <Home /></div>
+        <div className='offer'>  <Offer /></div>
+        <div className='cal-show'>    <Vendor /></div>
+        <div className='cal-show'><About /></div>
+      </div>
       <footer>
-        <h2>Find me on social media..</h2>
+        <div><Contact /></div>
       </footer>
     </div>
   );

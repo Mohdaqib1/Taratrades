@@ -1,15 +1,17 @@
 body{
   margin: 0;
-  width: 100%;
+  padding: 0;
 }
 header{
-  width: 100%;
+  max-width: 100%;
   background-color: rgb(46, 136, 238);
-  color: rgb(209, 61, 61);
-  padding: 30px;
+  color: white;
+  padding: 10px;
   display: flex;
 }
 .page-name{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 4rem;
   margin-top: 3%;
   width: 87%;
 }
@@ -20,24 +22,38 @@ header{
   border-radius: 50%;
   
 }
-nav{
- width: 100%;
-  margin-top: 3px;
-  background-color: rgb(46, 136, 238);
-  display: flex;
-  justify-content: space-around;
-}
-.link-h3:hover{
-  width: 100%;
-  background-color: aqua;
-}
-.link{
+a{
   text-decoration: none;
+  color: blue;
+}
+dd{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.5rem;
+}
+.container-show{
+  max-width: 80%;
+  margin: 0% 10%;
+}
+.cal-show-m{
+  margin-top: 0;
+  text-align: center;
+}
+.offer{
+  margin-top: 80px;
+  text-align: center;
+}
+.cal-show{
+  margin-top: 40px;
+  text-align: center;
+}
+
+.page-div{
+  width: 100%;
 }
 
 footer{
-  margin-top: 600px;
-width: 100%;
+  color: white;
+ max-width: 100%;
   padding: 30px;
   background-color: rgb(46, 136, 238);
   text-align: center;
@@ -85,28 +101,10 @@ width: 100%;
 div{
   max-width: 100%;
 }
-.non{
-  display: none;
-}
+
 
 @media screen and (max-width: 400px) {
-  .non{
-    display: blocks;
-  }
-  body{
-    margin: 0;
-    max-width: 100%;
-  }
-  header{
+ body{
    max-width: 100%;
-    background-color: rgb(46, 136, 238);
-    color: rgb(209, 61, 61);
-    padding: 20px;
-    display: flex;
-  }
-  .nav{
-    text-align: center;
-    font-size: 10px;
-  }
-  
+ }
 }

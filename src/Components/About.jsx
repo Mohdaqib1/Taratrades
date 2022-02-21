@@ -4,7 +4,7 @@ import React from "react";
 function About(){
     return(
 
-        <div className="about">
+        <div className="page-div">
 
             <dl>
   <dt ><h3>Profile (Tarauf)</h3> </dt>
